@@ -51,6 +51,12 @@
   ],
   "navigation": [
     {
+      "group": "Playbooks",
+      "pages": [
+        "playbooks/manager/overview"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
