@@ -57,7 +57,8 @@
         "playbooks/manager/daily-management",
         "playbooks/manager/overcoming-challenges",
         "playbooks/manager/longterm-development",
-        "playbooks/manager/measuring-success"
+        "playbooks/manager/measuring-success",
+        "playbooks/manager/best-practices"
       ]
     },
     {
