@@ -54,7 +54,10 @@
       "group": "Playbooks",
       "pages": [
         "playbooks/manager/overview",
-        "playbooks/manager/daily-management"
+        "playbooks/manager/daily-management",
+        "playbooks/manager/overcoming-challenges",
+        "playbooks/manager/longterm-development",
+        "playbooks/manager/measuring-success"
       ]
     },
     {
