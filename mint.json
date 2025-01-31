@@ -53,7 +53,8 @@
     {
       "group": "Playbooks",
       "pages": [
-        "playbooks/manager/overview"
+        "playbooks/manager/overview",
+        "playbooks/manager/daily-management"
       ]
     },
     {
