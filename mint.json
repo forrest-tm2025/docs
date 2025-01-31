@@ -58,7 +58,14 @@
         "playbooks/manager/overcoming-challenges",
         "playbooks/manager/longterm-development",
         "playbooks/manager/measuring-success",
-        "playbooks/manager/best-practices"
+        "playbooks/manager/best-practices",
+        "playbooks/manager/next-level-success"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides"        
       ]
     },
     {
